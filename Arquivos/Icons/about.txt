@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Ewert
+- Font Author: Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.
+- Font Source: http://fonts.gstatic.com/s/ewert/v14/va9I4kzO2tFODYBvS-J3kbDP.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
