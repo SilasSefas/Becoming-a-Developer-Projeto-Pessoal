@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+p#Menu{
+    text-align: right;
+    
+}
+
+body{
+    background-color: rgba(158, 158, 158, 0.219);
+    text-align: justify;
+    font-size: 20px;
+}
+
