@@ -1,23 +1,5 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgb(240, 231, 222);
-    margin-left: 80px;
-    margin-right: 60px;
-    margin-bottom: 30px;    
-}
-
-h1{
-    margin-left: 45px;
-    font-size: 40pt;
-}
-
-p{
-    text-align: justify;
-    font-size: 14pt;
-}
-
-p#Menu{
-    text-align: right;
-    
+    background-color: #fff0df;
 }
