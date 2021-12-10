@@ -1,5 +1,34 @@
 @charset "UTF-8";
-
 body{
     background-color: #fff0df;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    width: auto;
+    background-color: #f8fafd;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px #f0c9b3;
+}
+
+h1{
+    font-family: shrikhand;
+    font-size: 25pt;
+    
+   
+}
+h2{
+    font-size: 25pt;
+}
+
+footer{
+    background-color: #f8fafd;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 20px;
+    width: auto;
+   
 }
