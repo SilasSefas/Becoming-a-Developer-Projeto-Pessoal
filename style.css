@@ -12,6 +12,15 @@ main{
     padding: 20px;
     box-shadow: 10px 10px 10px #f0c9b3;
 }
+div#menu{
+    background-color: #f0c9b3;
+    text-align: center;
+    padding: 8px;
+    float: right;
+    margin: 5px;
+    height: 20px;
+    width: 80px;
+}
 
 h1{
     font-family: shrikhand;
@@ -23,12 +32,12 @@ h2{
     font-size: 25pt;
 }
 
-footer{
+footer#principal{
     background-color: #f8fafd;
     margin-top: 10px;
     margin-left: 80px;
     margin-right: 80px;
     padding: 20px;
-    width: auto;
+    float: top;
    
 }
