@@ -6,7 +6,7 @@ main{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.1em;
     width: auto;
-    background-color: #f8fafd;
+    background-color: #fffbf7;
     margin-left: 5em;
     margin-right: 5em;
     padding: 1.25em;
@@ -33,11 +33,16 @@ h2{
 }
 
 footer#principal{
-    background-color: #f8fafd;
+    background-color: #fffbf7;
     margin-top: 0.6em;
     margin-left: 5em;
     margin-right: 5em;
     padding: 1.6em;
     float: top;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    width: auto;
+    padding: 1.25em;
+    box-shadow: 0.6em 0.6em 0.6em #f0c9b3;
    
 }
