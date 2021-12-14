@@ -4,40 +4,40 @@ body{
 }
 main{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 13pt;
+    font-size: 1.1em;
     width: auto;
     background-color: #f8fafd;
-    margin-left: 80px;
-    margin-right: 80px;
-    padding: 20px;
-    box-shadow: 10px 10px 10px #f0c9b3;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding: 1.25em;
+    box-shadow: 0.6em 0.6em 0.6em #f0c9b3;
 }
 div#menu{
     background-color: #f0c9b3;
     text-align: center;
-    padding: 8px;
+    padding: 0.5em;
     float: right;
-    margin: 5px;
-    height: 20px;
-    width: 80px;
+    margin: 0.32em;
+    height: 1.25em;
+    width: 5em;
 }
 
 h1{
     font-family: shrikhand;
-    font-size: 25pt;
+    font-size: 1.6em;
     
    
 }
 h2{
-    font-size: 25pt;
+    font-size:  1.6em;
 }
 
 footer#principal{
     background-color: #f8fafd;
-    margin-top: 10px;
-    margin-left: 80px;
-    margin-right: 80px;
-    padding: 20px;
+    margin-top: 0.6em;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding: 1.6em;
     float: top;
    
 }
