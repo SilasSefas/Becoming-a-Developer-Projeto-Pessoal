@@ -6,7 +6,8 @@ main{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.1em;
     width: auto;
-    background-color: #f8fafd;
+    /*background-color: #f8fafd;*/
+    background-color: black;
     margin-left: 5em;
     margin-right: 5em;
     padding: 1.25em;
